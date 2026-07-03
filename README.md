@@ -1,4 +1,4 @@
-# lightweight AI
+# Lightweight AI
 
 **Input → Reasoning → Output**
 
