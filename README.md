@@ -9,6 +9,8 @@ I am researching an alternative to large statistical models. If you believe in t
 
 ![Stars](https://img.shields.io/github/stars/ao-labs-123/context-aware-inference-engine?style=social)
 
+**Core Repositories:**
+
 - [Input:context-aware-inference-engine](https://github.com/ao-labs-123/context-aware-inference-engine)
 
 - [Reasoning:Coming soon]()
