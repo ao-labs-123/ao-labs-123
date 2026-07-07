@@ -1,8 +1,6 @@
 # Lightweight AI
 
-## Input → Reasoning → Output
-
-**[ 1.Environment ]→[ 2.Input ]→[ 3.Memory/Storage ]→[ 4.Match&Select ]→[ 5.Execution ]→[ 6.Output ]**
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/78bbc5c3-764c-4990-9811-d5198d295134" />
 
 **Join the Research**
 
