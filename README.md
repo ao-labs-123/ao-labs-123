@@ -15,3 +15,7 @@ I am researching an alternative to large statistical models. If you believe in t
 - [Reasoning:Coming soon]()
 
 - [Output:Coming soon]()
+
+#explainable-ai⁠ 
+⁠#rule-based-nlp
+⁠#logical-reasoning
