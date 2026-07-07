@@ -5,12 +5,6 @@
 
 "The Reasoning module is the core engine, structured into three internal sub-processes (Memory/Storage, Match&Select, and Execution) to perform fine-grained context inference."
 
-**Join the Research**
-
-I am researching an alternative to large statistical models. If you believe in the future of explainable, abstraction-based AI, a star would mean a lot to support this independent research. ⭐
-
-![Stars](https://img.shields.io/github/stars/ao-labs-123/context-aware-inference-engine?style=social)
-
 ## Core Repositories:
 
 - [Input:context-aware-inference-engine](https://github.com/ao-labs-123/context-aware-inference-engine)
@@ -18,6 +12,13 @@ I am researching an alternative to large statistical models. If you believe in t
 - [Reasoning:Coming soon]()
 
 - [Output:Coming soon]()
+
+**Join the Research**
+
+I am researching an alternative to large statistical models. If you believe in the future of explainable, abstraction-based AI, a star would mean a lot to support this independent research. ⭐
+
+![Stars](https://img.shields.io/github/stars/ao-labs-123/context-aware-inference-engine?style=social)
+
 
 #explainable-ai⁠ 
 ⁠#rule-based-nlp
