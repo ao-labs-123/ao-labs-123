@@ -1,6 +1,6 @@
 # Lightweight AI
 ## Input→Reasoning→Output
-**Reasoning:Memory/Storage→Match&Select→Execution**
+**Reasoning:[Memory/Storage]→[Match&Select]→[Execution]**
 
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/5d798d5e-9037-4a32-ba37-d2209f73cb97" />
 
