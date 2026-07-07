@@ -1,6 +1,7 @@
 # Lightweight AI
 
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/78bbc5c3-764c-4990-9811-d5198d295134" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/5d798d5e-9037-4a32-ba37-d2209f73cb97" />
+
 
 **Join the Research**
 
