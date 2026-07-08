@@ -2,7 +2,8 @@
 ## Input→Reasoning→Output
 **Reasoning:[Memory/Storage]→[Match&Select]→[Execution]**
 
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/8ab2e466-cb30-4caf-9bc7-65052db717c4" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/2ad5466e-d5e0-4f17-b752-324fb441fb47" />
+
 
 
 "The Reasoning module is the core engine, structured into three internal sub-processes (Memory/Storage, Match&Select, and Execution) to perform fine-grained context inference."
