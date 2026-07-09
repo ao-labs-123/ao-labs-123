@@ -21,7 +21,7 @@
 
 **Join the Research**
 
-I am researching an alternative to large statistical models. If you believe in the future of explainable, abstraction-based AI, a star would mean a lot to support this independent research. ⭐
+I am researching an alternative to large statistical models by unlocking low-cost, explainable, and abstraction-based AI. If you believe in the future of logical rule-based architectures, a star would mean a lot to support this independent research. 🌟
 
 ![Stars](https://img.shields.io/github/stars/ao-labs-123/context-aware-inference-engine?style=social)
 
