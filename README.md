@@ -6,7 +6,7 @@
 
 
 
-"The Reasoning module is the core engine, structured into three internal sub-processes (Memory/Storage, Match&Select, and Execution) to perform fine-grained context inference."
+"The Reasoning module is the core engine, structured into four internal sub-processes (Topological Mapping,Memory/Storage, Match&Select, and Execution) to perform fine-grained context inference."
 
 ## Core Repositories:
 
