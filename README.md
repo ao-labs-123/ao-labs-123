@@ -11,13 +11,16 @@
 ## Core Repositories:
 
 - **Input**:[context-aware-inference-engine](https://github.com/ao-labs-123/context-aware-inference-engine)
-- The core processing logic for Environment and Input.
+
+  The core processing logic for Environment and Input.
 
 - **Reasoning**:[]()
-- Implementation of Reasoning stages.
+
+  Implementation of Reasoning stages.
 
 - **Output**:[]()
-- Practical application for Output/Decision-making.
+
+  Practical application for Output/Decision-making.
 
 **Join the Research**
 
