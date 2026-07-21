@@ -18,8 +18,9 @@
 **Reasoning**:Implementation of Reasoning stages.
 
 - []()
-
-  
+- []()
+- []()
+- []()
 
 **Output**:Practical application for Output/Decision-making.
 
