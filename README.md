@@ -9,18 +9,21 @@
 "The Reasoning module is the core engine, structured into four internal sub-processes (Topological Mapping,Memory/Storage, Match&Select, and Execution) to perform fine-grained context inference."
 
 ## Core Repositories:
-## Input: The core processing logic for Environment and Input.
+## Input:
+**The core processing logic for Environment and Input.**
 - [context-aware-inference-engine](https://github.com/ao-labs-123/context-aware-inference-engine)
 
 
-## Reasoning: Implementation of Reasoning stages.
+## Reasoning: 
+**Implementation of Reasoning stages.**
 
 - []()
 - []()
 - []()
 - []()
 
-## Output: Practical application for Output/Decision-making.
+## Output: 
+**Practical application for Output/Decision-making.**
 
 - []()
 
