@@ -10,7 +10,7 @@
 # Core Repositories:
 ## Input:
 **The core processing logic for Environment and Input.**
-- [context-aware-inference-engine](https://github.com/ao-labs-123/context-aware-inference-engine)
+- [input-parser](https://github.com/ao-labs-123/context-aware-inference-engine)
 
 
 ## Reasoning: 
