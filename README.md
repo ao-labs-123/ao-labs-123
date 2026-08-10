@@ -6,7 +6,8 @@
 ## Reasoning:
 **[Topological Mapping]→[Memory/Storage]→[Match&Select]→[Execution]**
 
-<img width="1904" height="551" alt="image" src="https://github.com/user-attachments/assets/9dfa153f-c4f9-4a06-a07f-9036d6422c73" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/0411ae6f-4f35-4f8d-a3b8-beae71b6c152" />
+
 
 
 **"The Reasoning module is the core engine, structured into four internal sub-processes (Topological Mapping,Memory/Storage, Match&Select, and Execution) to perform fine-grained context inference."**
