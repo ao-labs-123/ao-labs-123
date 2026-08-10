@@ -6,8 +6,7 @@
 ## Reasoning:
 **[Topological Mapping]→[Memory/Storage]→[Match&Select]→[Execution]**
 
-<img width="1620" height="511" alt="image" src="https://github.com/user-attachments/assets/7e142ab9-d1a6-4bdf-a60e-70136be157b1" />
-
+<img width="1620" height="511" alt="image" src="https://github.com/user-attachments/assets/4d1a0d96-55c9-40c9-8ab4-14d545e5d43a" />
 
 
 
