@@ -31,7 +31,7 @@
 - [output-formatter]()
 
 
-## Join the Research
+# Join the Research
 
 **I am researching an alternative to large statistical models by unlocking low-cost, explainable, and abstraction-based AI. If you believe in the future of logical rule-based architectures, a star would mean a lot to support this independent research. 🌟**
 
