@@ -1,6 +1,7 @@
 # Lightweight AI
 ## Input→Reasoning→Output
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/2cdb1a91-0a0d-4f35-8b64-0526dca09795" />
+<img width="1042" height="921" alt="image" src="https://github.com/user-attachments/assets/576380f0-34bc-46d3-ae6a-e359d0d663ed" />
+
 
 
 
