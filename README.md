@@ -2,9 +2,6 @@
 ## Input→Reasoning→Output
 <img width="1042" height="921" alt="image" src="https://github.com/user-attachments/assets/576380f0-34bc-46d3-ae6a-e359d0d663ed" />
 
-
-
-
 ## Reasoning:
 **[Topological Mapping]→[Memory/Storage]→[Match&Select]→[Execution]**
 
@@ -21,7 +18,9 @@
 ## Reasoning: 
 **Implementation of Reasoning stages.**
 
+- [particle encapsulation]()
 - [topological-mapper](https://github.com/ao-labs-123/topological-mapper)
+- [spatial allocation]()
 - [memory-storage]()
 - [match-and-select]()
 - [execution-engine]()
