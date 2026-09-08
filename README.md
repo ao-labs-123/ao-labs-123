@@ -1,12 +1,11 @@
 # Lightweight AI
 ## Input→Reasoning→Output
-<img width="1620" height="408" alt="image" src="https://github.com/user-attachments/assets/a01cf9af-2b02-45f3-b557-29c714e7217b" />
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/2cdb1a91-0a0d-4f35-8b64-0526dca09795" />
+
 
 
 ## Reasoning:
 **[Topological Mapping]→[Memory/Storage]→[Match&Select]→[Execution]**
-
-<img width="1620" height="511" alt="image" src="https://github.com/user-attachments/assets/4d1a0d96-55c9-40c9-8ab4-14d545e5d43a" />
 
 
 
