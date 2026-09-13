@@ -18,7 +18,7 @@
 ## Reasoning: 
 **Implementation of Reasoning stages.**
 
-- [particle encapsulation]()
+- [particle encapsulation](https://github.com/ao-labs-123/particle-encapsulation)
 - [topological-mapper](https://github.com/ao-labs-123/topological-mapper)
 - [spatial allocation]()
 - [memory-storage]()
