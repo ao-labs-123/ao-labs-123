@@ -41,3 +41,4 @@
 #explainable-ai⁠ 
 ⁠#rule-based-nlp
 ⁠#logical-reasoning
+#ACT-R
