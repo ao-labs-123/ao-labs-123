@@ -1,9 +1,9 @@
 # Lightweight AI
-Instead of heavy symbolic rules, it models natural human dialogue by processing language features into micro-particles within a topological space—reproducing how human memory naturally handles dynamic context at near-zero computational cost.
+**Instead of heavy symbolic rules, it models natural human dialogue by processing language features into micro-particles within a topological space—reproducing how human memory naturally handles dynamic context at near-zero computational cost.**
 
 ## "ACT-R at a Micro-Scale"
 ### What makes this different from standard ACT-R?
-Standard ACT-R operates on a macro level with production rules. This project zooms into the micro-level of cognitive processing.
+**Standard ACT-R operates on a macro level with production rules. This project zooms into the micro-level of cognitive processing.**
 
 ## Input→Reasoning→Output
 <img width="1042" height="921" alt="image" src="https://github.com/user-attachments/assets/576380f0-34bc-46d3-ae6a-e359d0d663ed" />
