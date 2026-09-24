@@ -1,4 +1,4 @@
-# Micro—ACT-R
+# Micro—ACT-R (tentative)
 **Instead of heavy symbolic rules, it models natural human dialogue by processing language features into micro-particles within a topological space—reproducing how human memory naturally handles dynamic context at near-zero computational cost.**
 
 ## "ACT-R at a Micro-Scale"
