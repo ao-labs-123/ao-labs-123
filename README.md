@@ -1,4 +1,4 @@
-# Lightweight AI
+# Micro—ACT-R
 **Instead of heavy symbolic rules, it models natural human dialogue by processing language features into micro-particles within a topological space—reproducing how human memory naturally handles dynamic context at near-zero computational cost.**
 
 ## "ACT-R at a Micro-Scale"
@@ -40,4 +40,4 @@
 
 # Join the Research
 
-**I am researching an alternative to large statistical models by unlocking low-cost, explainable, and abstraction-based AI. If you believe in the future of logical rule-based architectures, a star would mean a lot to support this independent research. 🌟**
+**If you believe in the future of logical rule-based architectures, a star would mean a lot to support this independent research. 🌟**
