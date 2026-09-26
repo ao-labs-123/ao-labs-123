@@ -8,13 +8,12 @@
 # Pipeline
 ```text
 Input→Reasoning→Output
-```
-<img width="1042" height="921" alt="image" src="https://github.com/user-attachments/assets/576380f0-34bc-46d3-ae6a-e359d0d663ed" />
 
-```text
 Reasoning:
 [Particle Encapsulation]→[Topological Mapping]→[Spatial Allocation]→[Memory/Storage]→[Match&Select]→[Execution]**
 ```
+<img width="1042" height="921" alt="image" src="https://github.com/user-attachments/assets/576380f0-34bc-46d3-ae6a-e359d0d663ed" />
+
 
 **"The Reasoning module is the core engine, structured into four internal sub-processes (Particle Encapsulation,Topological Mapping,Spatial Allocation,Memory/Storage, Match&Select, and Execution) to perform fine-grained context inference."**
 
