@@ -12,7 +12,7 @@
 Input→Reasoning→Output
 
 Reasoning:
-[Particle Encapsulation]→[Topological Mapping]→[Spatial Allocation]→[Memory/Storage]→[Match&Select]→[Execution]**
+[Particle Encapsulation]→[Topological Mapping]→[Spatial Allocation]→[Memory/Storage]→[Match&Select]→[Execution]
 ```
 
 **"The Reasoning module is the core engine, structured into six internal sub-processes (Particle Encapsulation,Topological Mapping,Spatial Allocation,Memory/Storage, Match&Select, and Execution) to perform fine-grained context inference."**
