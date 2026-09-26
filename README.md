@@ -7,6 +7,7 @@
 
 # Pipeline
 <img width="1042" height="921" alt="image" src="https://github.com/user-attachments/assets/576380f0-34bc-46d3-ae6a-e359d0d663ed" />
+
 ```text
 Input→Reasoning→Output
 
@@ -21,10 +22,8 @@ Reasoning:
 **The core processing logic for Environment and Input.**
 - [input-parser](https://github.com/ao-labs-123/input-parser)
 
-
 ## Reasoning: 
 **Implementation of Reasoning stages.**
-
 - [particle encapsulation](https://github.com/ao-labs-123/particle-encapsulation)
 - [topological-mapper](https://github.com/ao-labs-123/topological-mapper)
 - [spatial allocation]()
@@ -34,10 +33,7 @@ Reasoning:
 
 ## Output: 
 **Practical application for Output/Decision-making.**
-
 - [output-formatter]()
 
-
 # Join the Research
-
 **If you believe in the future of logical rule-based architectures, a star would mean a lot to support this independent research. 🌟**
