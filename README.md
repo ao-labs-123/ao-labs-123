@@ -5,6 +5,8 @@
 ### What makes this different from standard ACT-R?
 **Standard ACT-R operates on a macro level with production rules. This project zooms into the micro-level of cognitive processing.**
 
+[https://excalidraw.com/#json=BZrdgXfHzfiHifHCbqtee,3GVrg0R0ZG8H-mRO_NDHIg]
+
 # Pipeline
 <img width="1042" height="921" alt="image" src="https://github.com/user-attachments/assets/576380f0-34bc-46d3-ae6a-e359d0d663ed" />
 
