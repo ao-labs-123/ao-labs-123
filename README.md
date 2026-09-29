@@ -1,5 +1,12 @@
 # Micro—ACT-R (tentative)
+> **A minimalist, deterministic, particle-based topological cognitive engine.**
 ## "ACT-R at a Micro-Scale"
+## Overview
+**Micro—ACT-R** is a lightweight reimagining of the ACT-R architecture. Unlike traditional cognitive models that rely on heavy symbolic production rules or black-box LLM matrices, Micro—ACT-R encapsulates cognitive processes—such as semantics, affect, and mental imagery—into **topological particles**.
+
+By projecting inputs into a spatial, particle-based topology, it enables **deterministic, transparent, and ultra-low-compute cognitive reasoning**.
+
+
 ### What makes this different from standard ACT-R?
 **Standard ACT-R operates on a macro level with production rules. This project zooms into the micro-level of cognitive processing.**
 
