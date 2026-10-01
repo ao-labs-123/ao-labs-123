@@ -3,9 +3,11 @@
 ### Overview
 **Micro–ACT-R operates through a clear, fully explainable pipeline from input to reasoning and execution:**
 
-First, text is acquired from the Environment and parsed in the Input stage into individual cognitive particles (Particle Encapsulation).
-Next, during Reasoning, the system uses Topological Mapping to define relationships between particles and assigns explicit spatial coordinates via Spatial Allocation. These coordinates are logged directly into Storage.
-The system then validates consistency between the category of knowledge and past experiences (Match & Select), selects the appropriate action based on this consistency (Execution), and finally produces the Output.
+First, text is acquired from the **Environment** and parsed in the **Input** stage into individual cognitive **particles** (Particle Encapsulation).
+
+Next, during **Reasoning**, the system uses **Topological Mapping** to define relationships between particles and assigns explicit spatial coordinates via **Spatial Allocation**. These coordinates are logged directly into **Storage**.
+
+The system then validates consistency between the category of knowledge and past experiences **(Match & Select)**, selects the appropriate action based on this consistency **(Execution)**, and finally produces the **Output**.
 
 ### What makes this different from standard ACT-R?
 **Standard ACT-R operates on a macro level with production rules. This project zooms into the micro-level of cognitive processing.**
