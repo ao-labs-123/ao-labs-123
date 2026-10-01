@@ -1,19 +1,5 @@
 # Micro—ACT-R (tentative)
-## "ACT-R at a Micro-Scale"
-
-## Overview
-
-**Micro-ACT-R** is a minimalist, deterministic cognitive engine that models cognitive processing at the micro-level—before macro-level production rules or emotional dynamics (ACT-RT) take over. 
-
-Instead of relying on heavy statistical LLMs or rigid symbolic logic, it converts raw environmental input into **encapsulated particles** within a topological coordinate space.
-
-### Core Architecture
-* **Particle-Based Representation:** Information is represented not as text strings or high-dimensional dense vectors, but as discrete, state-bearing particles ($id$, $label$, $state$).
-* **Topological Reasoning:** Processes logic and spatial relationships via geometric topology rather than brute-force matrix multiplication.
-* **Deterministic & Ultra-Lightweight:** Delivers fully explainable, rule-based cognitive execution with minimal computational overhead.
-
-> **Note:** Micro-ACT-R serves as the foundational, rational processing layer. Emotional topology (ACT-RT) and visual encapsulation will extend from this core engine.
-
+## "ACT-R at a Micro-Scale
 
 ### What makes this different from standard ACT-R?
 **Standard ACT-R operates on a macro level with production rules. This project zooms into the micro-level of cognitive processing.**
