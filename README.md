@@ -5,7 +5,7 @@
 
 <img width="2160" height="793" alt="image" src="https://github.com/user-attachments/assets/5a64ecfa-eade-4c7f-a436-0151328d0a4a" />
 
-### Overview
+## Overview
 **Micro–ACT-R operates through a clear, fully explainable pipeline from input to reasoning and execution:**
 
 First, text is acquired from the **Environment** and parsed in the **Input** stage into individual cognitive **particles** (Particle Encapsulation).
