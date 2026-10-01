@@ -18,9 +18,9 @@ The system then validates consistency between the category of knowledge and past
 <img width="1042" height="921" alt="image" src="https://github.com/user-attachments/assets/576380f0-34bc-46d3-ae6a-e359d0d663ed" />
 
 
-> Input→Reasoning→Output
+Input→Reasoning→Output
 
-> Reasoning:
+Reasoning:
 [Particle Encapsulation]→[Topological Mapping]→[Spatial Allocation]→[Memory/Storage]→[Match&Select]→[Execution]
 
 
