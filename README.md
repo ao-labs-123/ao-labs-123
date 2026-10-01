@@ -3,7 +3,7 @@
 
 <img width="2160" height="793" alt="image" src="https://github.com/user-attachments/assets/5a64ecfa-eade-4c7f-a436-0151328d0a4a" />
 
-**What makes this different from standard ACT-R?**
+## What makes this different from standard ACT-R?
 
 > **Standard ACT-R operates on a macro level with production rules. This project zooms into the micro-level of cognitive processing.**
 
