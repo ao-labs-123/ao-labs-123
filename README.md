@@ -4,17 +4,16 @@
 <img width="2160" height="793" alt="image" src="https://github.com/user-attachments/assets/5a64ecfa-eade-4c7f-a436-0151328d0a4a" />
 
 ## What makes this different from standard ACT-R?
-
-> **Standard ACT-R operates on a macro level with production rules. This project zooms into the micro-level of cognitive processing.**
+**Standard ACT-R operates on a macro level with production rules. This project zooms into the micro-level of cognitive processing.**
 
 ## Overview
-> **Micro–ACT-R operates through a clear, fully explainable pipeline from input to reasoning and execution:**
+**Micro–ACT-R operates through a clear, fully explainable pipeline from input to reasoning and execution:**
 
-First, text is acquired from the **Environment** and parsed in the **Input** stage into individual cognitive **particles** (Particle Encapsulation).
+> First, text is acquired from the **Environment** and parsed in the **Input** stage into individual cognitive **particles** (Particle Encapsulation).
 
-Next, during **Reasoning**, the system uses **Topological Mapping** to define relationships between particles and assigns explicit spatial coordinates via **Spatial Allocation**. These coordinates are logged directly into **Storage**.
+> Next, during **Reasoning**, the system uses **Topological Mapping** to define relationships between particles and assigns explicit spatial coordinates via **Spatial Allocation**. These coordinates are logged directly into **Storage**.
 
-The system then validates consistency between the category of knowledge and past experiences **(Match & Select)**, selects the appropriate action based on this consistency **(Execution)**, and finally produces the **Output**.
+> The system then validates consistency between the category of knowledge and past experiences **(Match & Select)**, selects the appropriate action based on this consistency **(Execution)**, and finally produces the **Output**.
 
 # Pipeline Architecture
 <img width="1042" height="921" alt="image" src="https://github.com/user-attachments/assets/576380f0-34bc-46d3-ae6a-e359d0d663ed" />
