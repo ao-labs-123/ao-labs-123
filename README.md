@@ -1,5 +1,7 @@
 # Micro—ACT-R (tentative)
 ## "ACT-R at a Micro-Scale
+# Overview
+Micro–ACT-R operates through a clear, fully explainable pipeline from input to reasoning and execution:
 
 ### What makes this different from standard ACT-R?
 **Standard ACT-R operates on a macro level with production rules. This project zooms into the micro-level of cognitive processing.**
