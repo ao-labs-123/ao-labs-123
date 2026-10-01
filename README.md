@@ -30,11 +30,11 @@ Reasoning:
 
 # Core Repositories:
 ## Input:
-**The core processing logic for Environment and Input.**
+> **The core processing logic for Environment and Input.**
 - [input-parser](https://github.com/ao-labs-123/input-parser)
 
 ## Reasoning: 
-**Implementation of Reasoning stages.**
+> **Implementation of Reasoning stages.**
 - [particle encapsulation](https://github.com/ao-labs-123/particle-encapsulation)
 - [topological-mapper](https://github.com/ao-labs-123/topological-mapper)
 - [spatial allocation]()
@@ -43,7 +43,7 @@ Reasoning:
 - [execution-engine]()
 
 ## Output: 
-**Practical application for Output/Decision-making.**
+> **Practical application for Output/Decision-making.**
 - [output-formatter]()
 
 # Join the Research
