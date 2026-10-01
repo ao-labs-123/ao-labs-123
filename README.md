@@ -1,5 +1,5 @@
 # Micro—ACT-R (tentative)
-## "ACT-R at a Micro-Scale
+> "ACT-R at a Micro-Scale
 ### Overview
 **Micro–ACT-R operates through a clear, fully explainable pipeline from input to reasoning and execution:**
 
