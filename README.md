@@ -15,15 +15,15 @@
 > **Implementation of Reasoning stages.**
 - [particle encapsulation](https://github.com/ao-labs-123/particle-encapsulation)
 - [topological-mapper](https://github.com/ao-labs-123/topological-mapper)
-- [spatial-allocation]※unreleased()
-- [quantization]※unreleased()
-- [quantum-entanglement]※unreleased()
-- [memory-storage]※unreleased()
-- [match-and-select]※unreleased()
-- [execution-engine]※unreleased()
+- [spatial-allocation]()※unreleased
+- [quantization]()※unreleased
+- [quantum-entanglement]()※unreleased
+- [memory-storage]()※unreleased
+- [match-and-select]()※unreleased
+- [execution-engine]()※unreleased
   
 > **Practical application for Output/Decision-making.**
-- [output-formatter]※unreleased()
+- [output-formatter]()※unreleased
 
 # Join the Research
 **If you believe in the future of logical rule-based architectures, a star would mean a lot to support this independent research. 🌟**
