@@ -15,11 +15,13 @@
 > **Implementation of Reasoning stages.**
 - [particle encapsulation](https://github.com/ao-labs-123/particle-encapsulation)
 - [topological-mapper](https://github.com/ao-labs-123/topological-mapper)
-- [spatial allocation]()
+- [spatial-allocation]()
+- [quantization]()
+- [quantum-entanglement]()
 - [memory-storage]()
 - [match-and-select]()
 - [execution-engine]()
-- 
+  
 > **Practical application for Output/Decision-making.**
 - [output-formatter]()
 
