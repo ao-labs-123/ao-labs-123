@@ -15,7 +15,7 @@ Next, during **Reasoning**, the system uses **Topological Mapping** to define re
 The system then validates consistency between the category of knowledge and past experiences **(Match & Select)**, selects the appropriate action based on this consistency **(Execution)**, and finally produces the **Output**.
 
 # Pipeline Architecture
-<img width="1042" height="921" alt="image" src="https://github.com/user-attachments/assets/576380f0-34bc-46d3-ae6a-e359d0d663ed" />
+<img width="1558" height="1348" alt="image" src="https://github.com/user-attachments/assets/96ff71c4-82fa-48d1-9f8e-414fd74b496b" />
 
 
 Input→Reasoning→Output
