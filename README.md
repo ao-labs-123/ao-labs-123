@@ -1,10 +1,11 @@
 # Micro—ACT-R (tentative)
 > **”ACT-R at a Micro-Scale”**
-## What makes this different from standard ACT-R?
-**Standard ACT-R operates on a macro level with production rules. This project zooms into the micro-level of cognitive processing.**
 
 # The Micro-ACT-R Architecture
 <img width="1558" height="1348" alt="image" src="https://github.com/user-attachments/assets/96ff71c4-82fa-48d1-9f8e-414fd74b496b" />
+
+## What makes this different from standard ACT-R?
+**Standard ACT-R operates on a macro level with production rules. This project zooms into the micro-level of cognitive processing.**
 
 <img width="2160" height="793" alt="image" src="https://github.com/user-attachments/assets/5a64ecfa-eade-4c7f-a436-0151328d0a4a" />
 
