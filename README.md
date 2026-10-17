@@ -8,29 +8,12 @@
 
 <img width="2160" height="793" alt="image" src="https://github.com/user-attachments/assets/5a64ecfa-eade-4c7f-a436-0151328d0a4a" />
 
-## Overview
-**Micro–ACT-R operates through a clear, fully explainable pipeline from input to reasoning and execution:**
+[Sentences Parse]→[Particle Encapsulation]→[Topological Mapping]→[Spatial Allocation]→[Quantization]→[Quantum Entanglement]→[Memory/Storage]→[Match&Select]→[Execution]
 
-First, text is acquired from the **Environment** and parsed in the **Input** stage into individual cognitive **particles** (Particle Encapsulation).
-
-Next, during **Reasoning**, the system uses **Topological Mapping** to define relationships between particles and assigns explicit spatial coordinates via **Spatial Allocation**. These coordinates are logged directly into **Storage**.
-
-The system then validates consistency between the category of knowledge and past experiences **(Match & Select)**, selects the appropriate action based on this consistency **(Execution)**, and finally produces the **Output**.
-
-Input→Reasoning→Output
-
-Reasoning:
-[Particle Encapsulation]→[Topological Mapping]→[Spatial Allocation]→[Memory/Storage]→[Match&Select]→[Execution]
-
-
-**"The Reasoning module is the core engine, structured into six internal sub-processes (Particle Encapsulation,Topological Mapping,Spatial Allocation,Memory/Storage, Match&Select, and Execution) to perform fine-grained context inference."**
-
-# Core Repositories:
-## Input:
+## Core Repositories:
 > **The core processing logic for Environment and Input.**
 - [input-parser](https://github.com/ao-labs-123/input-parser)
 
-## Reasoning: 
 > **Implementation of Reasoning stages.**
 - [particle encapsulation](https://github.com/ao-labs-123/particle-encapsulation)
 - [topological-mapper](https://github.com/ao-labs-123/topological-mapper)
@@ -38,8 +21,7 @@ Reasoning:
 - [memory-storage]()
 - [match-and-select]()
 - [execution-engine]()
-
-## Output: 
+- 
 > **Practical application for Output/Decision-making.**
 - [output-formatter]()
 
