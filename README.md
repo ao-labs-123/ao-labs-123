@@ -9,7 +9,7 @@
 <img width="2160" height="793" alt="image" src="https://github.com/user-attachments/assets/5a64ecfa-eade-4c7f-a436-0151328d0a4a" />
 
 ## Core Repositories:
-**[micro-act-r](https://github.com/ao-labs-123/micro-act-r)**
+- **[micro-act-r](https://github.com/ao-labs-123/micro-act-r)**
 
 > **The core processing logic for Environment and Input.**
 - [input-parser](https://github.com/ao-labs-123/input-parser)
