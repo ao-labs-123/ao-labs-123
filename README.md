@@ -18,7 +18,7 @@
 > **Implementation of Reasoning stages.**
 - [particle encapsulation](https://github.com/ao-labs-123/particle-encapsulation)
 - [topological-mapper](https://github.com/ao-labs-123/topological-mapper)
-- [spatial-allocation]()※unreleased
+- [spatial-allocation](https://github.com/ao-labs-123/spatial-allocation)
 - [quantization]()※unreleased
 - [quantum-entanglement]()※unreleased
 - [memory-storage]()※unreleased
