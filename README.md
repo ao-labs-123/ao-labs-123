@@ -1,5 +1,5 @@
 # Conscious-Declarative Cognitive Architecture (CDCA)
-<img width="1620" height="1359" alt="image" src="https://github.com/user-attachments/assets/2fe8d15c-370c-458a-858a-e1816d59b735" />
+<img width="1443" height="1538" alt="image" src="https://github.com/user-attachments/assets/8ad39489-f75a-486c-b1e3-a4bb98f64c49" />
 
 ## What makes this different from standard ACT-R?
 
