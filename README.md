@@ -1,12 +1,10 @@
-# Conscious-Declarative Cognitive Architecture (CDCA)
+# Conscious Cognitive Architecture (CCA)
 <img width="1443" height="1538" alt="image" src="https://github.com/user-attachments/assets/8ad39489-f75a-486c-b1e3-a4bb98f64c49" />
-
-## What makes this different from standard ACT-R?
 
 <img width="2160" height="793" alt="image" src="https://github.com/user-attachments/assets/5a64ecfa-eade-4c7f-a436-0151328d0a4a" />
 
 ## Core Repositories:
-- **[micro-act-r](https://github.com/ao-labs-123/micro-act-r)**
+- **[Conscious-Cognitive-Architecture](https://github.com/ao-labs-123/Conscious-Cognitive-Architecture)**
 
 #### Python implementation
 > **The core processing logic for Environment and Input.**
